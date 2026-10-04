@@ -87,8 +87,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 ## Author
 
-**Nafizur Rahman**  
-CSE Student, CUET  
+**Md. Nafizur Rahman**  
+Department of Computer Science and Engineering  
+Chittagong University of Engineering and Technology (CUET)  
 CodeAlpha Machine Learning Internship
 
 ---
