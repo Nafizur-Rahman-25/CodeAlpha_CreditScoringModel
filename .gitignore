@@ -1,0 +1,9 @@
+# Dataset (download separately from Kaggle)
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
