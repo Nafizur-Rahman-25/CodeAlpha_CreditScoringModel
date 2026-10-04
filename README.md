@@ -80,3 +80,20 @@ Random Forest achieved **14x better Recall** on the Default class. Even though i
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+
+
+
+---
+
+## Author
+
+**Nafizur Rahman**  
+CSE Student, CUET  
+CodeAlpha Machine Learning Internship
+
+---
+
+## Acknowledgements
+
+- [CodeAlpha](https://www.codealpha.tech) for the internship opportunity
+- [Kaggle](https://www.kaggle.com) for providing the dataset
