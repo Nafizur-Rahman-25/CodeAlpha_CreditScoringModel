@@ -79,15 +79,23 @@ Random Forest achieved **14x better Recall** on the Default class. Even though i
 ## How to Run
 
 ```bash
+# 1. Clone the repository
+git clone https://github.com/Nafizur-Rahman-25/CodeAlpha_CreditScoringModel.git
+cd CodeAlpha_CreditScoringModel
+
+# 2. Install dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
+# 3. Download the dataset from Kaggle (link above)
+#    and place cs-training.csv in the project folder
 
-
----
+# 4. Launch the notebook
+jupyter notebook credit_scoring.ipynb
+```
 
 ## Author
 
-**Md. Nafizur Rahman**  
+**Md. Nafizur Rahman Nafiz**  
 Department of Computer Science and Engineering  
 Chittagong University of Engineering and Technology (CUET)  
 CodeAlpha Machine Learning Internship
